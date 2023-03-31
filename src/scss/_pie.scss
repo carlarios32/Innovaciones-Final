@@ -1,0 +1,56 @@
+
+@media(max-width: 576px){
+  .pie {
+      display: block;
+      color: white;
+      font-size: 20px;
+  }
+}
+
+
+
+.pie{
+    background-image: url(../img/Diseño\ sin\ título\ \(88\)-min.png);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+  }
+
+  .pie h1{
+    color: white;
+  }
+
+  .pie p{
+    font-size: 20px;
+  }
+
+  .btn{
+    margin-top: 10px;
+    padding: 5px 25px;
+    background-color: #afbf34;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .subtitulo{
+    margin: 20px 20px; 
+  }
+
+ .btnp{
+  margin-top: 10px;
+  padding: 5px 25px;
+  background-color: #0d6efd;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+ }
+  
